@@ -1,0 +1,6 @@
+{
+  "name": "EDUCATE Tuition Centre",
+  "description": "Personalized tuition for Classes 8, 9 and 10 (Karnataka State Board & CBSE) in Rajajinagar, Bengaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
